@@ -29,7 +29,7 @@ My narrators and me: positionality and participants
 ====================================================
 
 Faculty are my unit of analysis
-[Description of participants] (as a unit of study)
+[Description of participants] as a unit of study
 
 I'm a student and they're profs (power dynamic)
 I like my narrators
