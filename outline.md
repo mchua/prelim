@@ -103,7 +103,7 @@ So what?
 
 [potential audiences for outputs]
 
-[project impact] (solves problems listed at start)
+[project impact] hopefully solves problems listed at start
 
 Appendices
 ===========
