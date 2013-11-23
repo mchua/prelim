@@ -6,6 +6,7 @@ Introduction
  * Current SOTL and faculty development research in engineering education
 * Speaking Curriculum: framing faculty development as linguistic fluency
  * Engineering faculty don't "speak" pedagogy
+ * One example of a thing we could use: Cognitive Apprenticeship framework (but it might fall apart)
  * Limited bridging between high-level engineering curricular theory theory and ground-level practice
 * What we know about learning
  * Knowledge is situated and enculturated (epistemology)
@@ -29,6 +30,7 @@ Introduction
  * Measures of Quality: does the research spark conversation? Does it get "used"?
  * Teaching practice changes happen because of accidental bumps into people, not deliberate searches
 * Research question: How do engineering and technology faculty make sense of their teaching identities through public storytelling centered on curricular revision?
+* Who cares? Potential audiences (table or list)
 
 My narrators and me: positionality and participants
 ---------------------------
@@ -36,6 +38,7 @@ My narrators and me: positionality and participants
 * This project studies individual engineering and technology faculty members.
  * Faculty are my unit of analysis
  * [Description of participants] as a unit of study
+ * Description of schools as context of research
 * My participants and I have an existing relationship dynamic.
  * participating faculty are "narrators" (not "participants" or "subjects")
  * I'm a student and they're profs (power dynamic)
@@ -56,6 +59,7 @@ Cognitive apprenticeship as a priori scaffolding
 * Cognitive Apprenticeship is my theoretical starting point
  * CogApp is my a priori theory
  * CogApp is a temporary scaffolding; I'm using it until something better comes along, and expect to end up with something different
+ * CogApp is like the "novice" (Dreyfuss) Mad Libs version; I'm going for haiku
  * Looking for opportunities to make CogApp fall apart (very poststructural of me)
  * CogApp makes thinking visible in a community in action
 * Cognitive Apprenticeship codes
@@ -63,6 +67,7 @@ Cognitive apprenticeship as a priori scaffolding
  * CogApp mentors model, scaffold, coach, & fade - metacognition support
  * Mentors create ZPDs (for things like metacognition)
 * Reflection is a part of CogApp
+ * but CogApp does not address identity (critique of framework)
  * Reflective practice (which is related to metacognition) is an established thing with methods & benefits documented
  * I'm asking my narrators to reflect on their experiences on curric rev teams
  * We benefit from being conscious of things as we do them
@@ -79,6 +84,7 @@ Narrative analysis as methodology
  * I am using narrative analysis
  * sensemaking is storytelling
  * public storytelling on curricular revision is engaging in a cognitive apprenticeship
+ * Creates a disciplinary commons
  * discourse participation is an important CogApp skill
 * Individual narratives and (performed) identities are also communal in nature
  * NarAn is a community engagement
@@ -113,7 +119,9 @@ Step by step
 
 * [What narrators are asked to do]
 * [data analysis walkthrough]
+* Datasets produced by this project
 * Justifying dataset choices, saturation/validity, planning
+* Public publishing logistics
 
 So what?
 ---------------------
@@ -121,14 +129,11 @@ So what?
 * [research outputs]
 * [potential audiences for outputs]
 * [project impact] hopefully solves problems listed at start
+* Where I could go from here (respin of "out of scope" section)
 
 Appendices
 -----------------------
 
 * Timeline
-* Description of schools
 * Interview setup logistics
 * Interview "script"
-* Datasets produced by this project
-* Public publishing logistics
-* List of stuff that's out of scope
