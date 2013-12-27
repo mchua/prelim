@@ -5,6 +5,37 @@ MULTIVOCALITY
 
 The Association of American Colleges and Universities reminds us that diversity needs to be encountered "affectively as well as intellectually." (1995, p. 22)
 
+Harding, S. (1993). Rethinking standpoint epistemology: what is strong objectivity? In L. Alcoff & E. Potter (Eds.), Feminist Epistemologies (pp. 49–82). New York: Routledge.
+----------------------
+
+WHAT SORT OF OBJECTIVITY DOES THIS PROJECT HAVE? WHAT TYPE OF KNOWLEDGE DOES IT PRODUCE?
+
+This project creates "socially situated knowledge" (50), which is a puzzlement. "Socially situated" things are supposed to be opinions, because "knowledge" transcends local/personal agendas, ties, histories, etc. (50). (CONNECT TO PORTER)
+
+GETTING DIFFERENT, "NOISIER" PERSPECTIVES IS A GOAL OF THIS METHOD; IT'S NOT NOISE, IT'S SIGNAL POINTING OUT OUR BLIND SPOTS.
+
+Standpoint theory's viewpoint is that marginalized peoples see things differently -- they see more things more broadly -- than the privileged, who have a more limited view. And wouldn't a "bigger view" lead to stronger objectivity than one that excludes a large chunk of the world? (54-55) And wouldn't exposing both the reading and the writing of our research work lead to the possibility of stronger objectivity -- peer review and so forth, but peer review not just from us, but from our subjects, from the people they work with, from anyone who cares to participate in the world? Need to be careful that we keep the signal/noise ratio here, but also be careful how we determine what is signal, what is noise.
+
+But "scientific method provides no rules, procedures, or techniques for even identifying, let alone eliminating, social concerns and interests that are shared by all (or virtually all) of the observers, nor does it encourage seeking out observers whose social beliefs vary in order to increase the effectiveness of the scientific method." (57) So we take our assumptions into the research and don't realize them, the same way medical research was done mostly on men and engineering research is mostly done on white men and we can't necessarily apply it to the whole of all humanity. The "noise" of this project will, at times, be signal -- signal pointing out to us that we are sliding into comfortable assumptions, that there is actually something here we need to stop and unpack. It is a slower process of teaching and unpacking and so forth, but I think it will reach deeper, involve more.
+
+N^: This reminds me of a few things: the argument for diversity in design teams and examples like how cars are designed to be crash-safe for male and not female bodies, Barad's agential realism "cuts" between obesrver and observed and how we tend to draw the boundaries of "observer" around a small privileged minority of the human population, an article on how psych literature done on Americans has been generalized as "universal" whereas American thinking is actually the oddball compared to global societies (but we're the majority of those who "research" like this), the literature on sampling for qualitative reseach and how we could apply the same logic not just to "subjects" but to "researchers" as well, and Barad again in going "what's the difference between subject/researcher? we chose agential cuts that made it so." (BARAD)
+
+Q 61: (rearranged by Mel) [Standpoint theorists are not relativists; even] if there is no single standard for deciding between competing knowledge claims, [there are] some social situations [that] are scientifically better than others as places from which to start off knowledge projects. (61)
+
+GETTING OTHERS INTO OUR WORLD REQUIRES THE HIGHLY POLITICAL ACTION OF GIVING THEM ACCESS INTO OUR CONTEXT
+
+Scientists never observe nature apart from such traditions; even when they criticize some aspects of them they must assume others in order to carry on the criticism. They could not do science if they did not both borrow from and criticize these traditions. Their assumptions about what they see are always shaped by "conversations" they carry on with scientists of the past. (64) So to get non-ENE folks involved in our research -- including using our research -- we need to help them step into our traditions, our conversations, give them a sense of situating themselves in that place... without requiring too much time to get in deeply, but perhaps only a sense of absolute presence for a while, and honest giving. And we should treat that dialogue as LPP, as something real that they do to contribute to the field. Not the sort of authorship we do, perhaps -- but a sort of authorship nevertheless. (DREYFUSS)
+
+N^: Lots of threads in here! Barad's agential realism "slicing" creates subject and object, and that slicing is shared between communities by Porter's "long-distance communications technology" of numbers/quantization (another sort of objectivity view) so that the same slice may be used by people who don't know and innately trust each other as individuals. Where does the standpoint theory come into this -- is it a call to include more people in that society? (Maybe, but this sounds too simple.) Is it a critique that such a society can never fully acknowledge the marginalized, that only communities and personal knowledge can? (I doubt it.) I am also reminded by the "conversations with scientists of the past" thing of Barad's thanks to Bohr in the preface to "Meeting the universe halfway." (CLEARLY NEED TO WEAVE IN BARAD)
+
+P 72-74: We can't say that starting from marginalized lives gives us more value-neutral research, because there's no such thing as value-neutral research; the statement that starting from marginalized lives is more value-neutral is itself a statement of value (starting from the margins is more valuable). We can't detach the "strong method" (of starting from the margins) from "strong objectivity" (which questions subject/object separation and requires reflexivity).
+
+N: Val Aurora's blog post on ball lightning, http://blog.valerieaurora.org/2013/05/10/ball-lightning-the-coolest-thing-youve-never-heard-of/, has some nice references to marginalization of the perspectives of marginalized people; meteors and ball lightning are both phenomena usually observed by peasants and so they were both discounted for a long time (whereas when a nobleperson discovered the same thing, it was suddenly real).
+
+GIVING OTHERS ACCESS TO OUR CONTEXT REQUIRES US TO BE CONSCIOUS OF OUR OWN CONTEXT
+
+Strong objectivity requires strong reflexivity, consciousness of all the decisions you're making about boundaries, etc. along the way. (69) I strive for this consciousness here. How? Forced public rearticulation of it to others who come from outside my research world.
+
 Baxter Magolda, M. B., & King, P. M. (2004). Learning partnerships: theory and models of practice to educate for self-authorship. Sterling, Va.: Stylus Pub.
 ---------------------------
 
