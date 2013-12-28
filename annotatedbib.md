@@ -5,6 +5,11 @@ MULTIVOCALITY
 
 The Association of American Colleges and Universities reminds us that diversity needs to be encountered "affectively as well as intellectually." (1995, p. 22)
 
+Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.
+-------------
+
+"What compels the belief that we have a direct access to cultural representations and their content that we lack toward the things represented?" asks Barad in a 2003 essay situated both within and against the science of knowledge and knowledge production (p. 801). Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.
+
 Barad, K. M. (2007). Meeting the universe halfway: quantum physics and the entanglement of matter and meaning. Durham: Duke University Press.
 ----------------------------
 
